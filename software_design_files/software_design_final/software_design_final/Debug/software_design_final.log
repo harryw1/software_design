@@ -1,0 +1,5 @@
+﻿  software_design_final.cpp
+d:\software_design_final\software_design_final\software_design_final.cpp(83): warning C4018: '<': signed/unsigned mismatch
+d:\software_design_final\software_design_final\software_design_final.cpp(91): warning C4018: '<': signed/unsigned mismatch
+d:\software_design_final\software_design_final\software_design_final.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  software_design_final.vcxproj -> D:\software_design_final\Debug\software_design_final.exe
